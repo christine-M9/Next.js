@@ -39,6 +39,7 @@
 
 .meal img {
   object-fit: cover;
+  border-radius: 80%;
 }
 
 .content {
